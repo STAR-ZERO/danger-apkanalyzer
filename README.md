@@ -32,6 +32,10 @@ Print number of method references
 
 	apkanalyzer.method_references
 
+## Sample image
+
+![](image.png)
+
 ## Development
 
 1. Clone this repo
