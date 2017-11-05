@@ -34,7 +34,7 @@ Print number of method references
 
 ## Sample image
 
-![](image.png)
+<img src="image.png" width="512px">
 
 ## Development
 
