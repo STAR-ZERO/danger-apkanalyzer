@@ -1,5 +1,7 @@
 # danger-apkanalyzer
 
+[![Build Status](https://travis-ci.org/STAR-ZERO/danger-apkanalyzer.svg?branch=master)](https://travis-ci.org/STAR-ZERO/danger-apkanalyzer)
+
 [Danger](http://danger.systems/ruby/) plugin for apkanalyzer.
 
 Run [apkanalyzer](https://developer.android.com/studio/command-line/apkanalyzer.html) and print file size, permissions and number of method refernces.
